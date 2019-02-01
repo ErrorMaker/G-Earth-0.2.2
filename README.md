@@ -20,7 +20,7 @@ Execute this command if you get the following error:
 # Mac execution
 This is more complex, will be documented later
 
-# Features
+# ALL CREDIT GOES TO 
 * Log outgoing and incoming packets
 * Injection, both sides
 * Blocking & replacing packets functionality
@@ -31,3 +31,5 @@ This is more complex, will be documented later
 * Advanced scheduler
 * Advanced extension support
 * 2 included extensions on-release
+
+# ALL CREDIT GOES TO https://github.com/sirjonasxx
