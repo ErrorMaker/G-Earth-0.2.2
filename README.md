@@ -1,3 +1,4 @@
+# ALL CREDIT GOES TO https://github.com/sirjonasxx
 # G-Earth
 Habbo packet logger & manipulator for Windows, Linux and Mac.
 
@@ -31,5 +32,3 @@ This is more complex, will be documented later
 * Advanced scheduler
 * Advanced extension support
 * 2 included extensions on-release
-
-# ALL CREDIT GOES TO https://github.com/sirjonasxx
